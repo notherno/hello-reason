@@ -1,0 +1,8 @@
+{
+  "name": "hello-reason",
+  "author": "notherno",
+  "private": true,
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
