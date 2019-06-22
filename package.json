@@ -3,6 +3,7 @@
   "author": "notherno",
   "private": true,
   "devDependencies": {
+    "bs-platform": "^5.0.4",
     "parcel-bundler": "^1.12.3"
   }
 }
