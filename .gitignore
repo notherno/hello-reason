@@ -3,3 +3,4 @@ node_modules
 .merlin
 /lib
 /.cache
+*.bs.js
