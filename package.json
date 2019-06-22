@@ -2,6 +2,9 @@
   "name": "hello-reason",
   "author": "notherno",
   "private": true,
+  "scripts": {
+    "start": "parcel index.html"
+  },
   "devDependencies": {
     "bs-platform": "^5.0.4",
     "bsb-js": "^1.1.7",
